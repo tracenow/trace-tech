@@ -17,3 +17,5 @@
 * [推荐](https://github.com/tracenow/trace-tech/tree/master/resource/推荐/recsys.md)
 
 * [用户画像](https://github.com/tracenow/trace-tech/tree/master/resource/用户画像/portrait.md)
+
+* [机器学习](https://github.com/tracenow/trace-tech/tree/master/resource/机器学习/ml.md)
