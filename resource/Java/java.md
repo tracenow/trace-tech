@@ -10,3 +10,6 @@
 ## Thrift
 
 * [Apache Thrift设计概要](http://calvin1978.blogcn.com/articles/apache-thrift.html)
+
+## Disruptor
+* [深入理解Disruptor](http://alicharles.com/article/understanding-disruptor/)
